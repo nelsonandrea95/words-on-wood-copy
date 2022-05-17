@@ -1,0 +1,98 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-about",
+      "settings": {
+      }
+    },
+    "16507609718114dc3b": {
+      "type": "html-with-image",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "image": "shopify:\/\/shop_images\/about1.jpg",
+        "image_position": "left",
+        "content": "At Words on Wood, we help you design and create custom signs that can be purchased online or created and designed in-house at our studio on Center Street in Wallingford, Connecticut!\n\nOur services include:\n<ul>\n<li>Amazing wood sign parties in our BYOB studio<\/li>\n<li>DIY workshops where you can order ahead using our online design tools<\/li>\n<li>Drop in and choose from one of our in house designs<\/li>\n<li>Private parties - a great time for a night out with friends<\/li>\n<li>Fundraisers and corporate events<\/li>\n<li>Children's birthday parties and craft events<\/li>\n<\/ul>\nWe do all kinds of custom wood products from corn hole games, live edge tables, barn doors, laser engraved charcuterie...\n\nThe possibilities are endless!",
+        "link_text": "",
+        "link_url": ""
+      }
+    },
+    "16507612637b13dd9b": {
+      "type": "text-with-image",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "image": "shopify:\/\/shop_images\/about2.jpg",
+        "image_position": "right",
+        "content": "<p>Words on Wood started in 2016 with custom signs and home parties, and in 2018 we opened our first studio in downtown Wallingford, Connecticut! Our studio is located at 144 Center Street.<br\/><br\/>At Words on Wood, YOU can design your own masterpiece!  We help you design and create custom products that can be purchased online in our shop or in our studio. Creating masterpieces with Words on Wood is addictive. If you can dream it, chances are we can put it on a sign. <br\/><br\/>We would love to create your masterpiece or work with you to create your own. Our beautiful 3,000 square foot studio space makes for a perfect night out!<br\/><br\/><em>Contact us with any questions! <\/em><\/p>",
+        "link_text": "",
+        "link_url": ""
+      }
+    },
+    "1650763900bdfc070e": {
+      "type": "images-slider",
+      "blocks": {
+        "f9b483ad-da1d-4d5e-8451-c99cb84923fb": {
+          "type": "images",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/image-1.jpg"
+          }
+        },
+        "236d64a2-4057-49e7-8160-9ea41609ecfb": {
+          "type": "images",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/image-1.jpg"
+          }
+        },
+        "a180b401-e1f9-4168-b17a-a1b3059f0a80": {
+          "type": "images",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/image-1.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "f9b483ad-da1d-4d5e-8451-c99cb84923fb",
+        "236d64a2-4057-49e7-8160-9ea41609ecfb",
+        "a180b401-e1f9-4168-b17a-a1b3059f0a80"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "Check out our studio!"
+      }
+    },
+    "16509185000eec1dff": {
+      "type": "map",
+      "settings": {
+        "title": "Come Visit Us",
+        "address": "<p>144 Center St. in Wallingford, CT.<\/p>",
+        "hours": "<ul>\n<li>Tuesday, Thursday and Friday 12-6<\/li>\n<li>Saturday 10-6<\/li>\n<\/ul>",
+        "map_address": "80 Spadina Ave, Toronto",
+        "map_link_label": "Get directions",
+        "api_key": "",
+        "zoom": 14,
+        "map_style": "silver",
+        "image": "shopify:\/\/shop_images\/Rectangle_43.jpg"
+      }
+    },
+    "16509883051d47d09c": {
+      "type": "text-with-image",
+      "settings": {
+        "subheading": "",
+        "title": "Ready to get creative?",
+        "image_position": "right",
+        "content": "",
+        "link_text": "Find an Event",
+        "link_url": "shopify:\/\/pages\/find-an-event"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16507609718114dc3b",
+    "16507612637b13dd9b",
+    "1650763900bdfc070e",
+    "16509185000eec1dff",
+    "16509883051d47d09c"
+  ]
+}

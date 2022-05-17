@@ -1,0 +1,79 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-contact",
+      "settings": {
+      }
+    },
+    "16517621577ad39029": {
+      "type": "contact-items",
+      "blocks": {
+        "818a3026-a099-4815-b7cb-6dc64220ff46": {
+          "type": "text",
+          "settings": {
+            "title": "Email",
+            "content": "support@carbon38.com",
+            "content_link": "mailto:support@carbon38.com"
+          }
+        },
+        "9d6c1416-7118-47e8-b334-c1470bcdba6e": {
+          "type": "text",
+          "settings": {
+            "title": "Phone",
+            "content": "(123) 456-7890",
+            "content_link": ""
+          }
+        },
+        "739c716a-ad89-41f8-945f-7af0b0f94e2a": {
+          "type": "text",
+          "settings": {
+            "title": "Address",
+            "content": "123 Fake St. Toronto, Canada",
+            "content_link": ""
+          }
+        },
+        "522379e9-dd90-4b64-b0b9-3d0a658157cb": {
+          "type": "text",
+          "settings": {
+            "title": "Have Questions?",
+            "content": "Frequently Asked Questions",
+            "content_link": "shopify:\/\/pages\/faq"
+          }
+        }
+      },
+      "block_order": [
+        "818a3026-a099-4815-b7cb-6dc64220ff46",
+        "9d6c1416-7118-47e8-b334-c1470bcdba6e",
+        "739c716a-ad89-41f8-945f-7af0b0f94e2a",
+        "522379e9-dd90-4b64-b0b9-3d0a658157cb"
+      ],
+      "settings": {
+      }
+    },
+    "16517744478630e100": {
+      "type": "contact-form",
+      "settings": {
+      }
+    },
+    "16517580071dc12b41": {
+      "type": "map",
+      "settings": {
+        "title": "Come visit our studio",
+        "address": "<p>144 Center St. in Wallingford, CT.<\/p>",
+        "hours": "<ul>\n<li>Tuesday, Thursday and Friday 12-6<\/li>\n<li>Saturday 10-6<\/li>\n<\/ul>",
+        "map_address": "80 Spadina Ave, Toronto",
+        "map_link_label": "Get directions",
+        "api_key": "",
+        "zoom": 14,
+        "map_style": "silver",
+        "image": "shopify:\/\/shop_images\/Rectangle_43.jpg"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16517621577ad39029",
+    "16517744478630e100",
+    "16517580071dc12b41"
+  ]
+}

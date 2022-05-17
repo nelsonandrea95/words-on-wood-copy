@@ -1,0 +1,85 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-faq",
+      "blocks": {
+        "ad1b9dfe-4bbc-4127-9620-04d5dd62d127": {
+          "type": "separator",
+          "settings": {
+            "title": "Returns"
+          }
+        },
+        "624a6f2c-e1c7-4a6a-9175-15092d604d83": {
+          "type": "question",
+          "settings": {
+            "title": "How do I make returns?",
+            "answer": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vulputate, lectus eget aliquam convallis, nulla lectus molestie purus, eget aliquam mauris libero sit amet tellus.<\/p>"
+          }
+        },
+        "6d04cbcd-ee86-4d3f-a3d8-565afe1f3275": {
+          "type": "question",
+          "settings": {
+            "title": "How long do returns take?",
+            "answer": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vulputate, lectus eget aliquam convallis, nulla lectus molestie purus, eget aliquam mauris libero sit amet tellus.<\/p>"
+          }
+        },
+        "69c9a3a3-a9bc-481b-9920-b27fb2ed70cf": {
+          "type": "separator",
+          "settings": {
+            "title": "Shipping"
+          }
+        },
+        "6c84f825-6df7-4645-af54-a8c69ea4c520": {
+          "type": "question",
+          "settings": {
+            "title": "How do I get shipping?",
+            "answer": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vulputate, lectus eget aliquam convallis, nulla lectus molestie purus, eget aliquam mauris libero sit amet tellus.<\/p>"
+          }
+        },
+        "a73e3b16-295e-4d4f-b203-f8bae29c5ca6": {
+          "type": "question",
+          "settings": {
+            "title": "What carrier do you use?",
+            "answer": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vulputate, lectus eget aliquam convallis, nulla lectus molestie purus, eget aliquam mauris libero sit amet tellus.<\/p>"
+          }
+        },
+        "8070dfa1-94c0-4400-b798-a4aebe835e5b": {
+          "type": "separator",
+          "settings": {
+            "title": "Lorem Ipsum"
+          }
+        },
+        "c324b302-3fda-4641-adf7-7e476909c517": {
+          "type": "question",
+          "settings": {
+            "title": "Aliquam nec felis ut nisi semper molestie",
+            "answer": "<p>Nulla mollis vestibulum ultrices. Vestibulum at velit sagittis, mollis lectus pharetra, placerat eros. Integer et laoreet dui, id consequat nulla. Sed sed purus in lectus venenatis scelerisque non in quam.<\/p>"
+          }
+        },
+        "24535318-91c7-4766-9ad7-61811277f700": {
+          "type": "question",
+          "settings": {
+            "title": "Pellentesque nec luctus lorem. Vivamus dui augue",
+            "answer": "<p>Nulla mollis vestibulum ultrices. Vestibulum at velit sagittis, mollis lectus pharetra, placerat eros. Integer et laoreet dui, id consequat nulla. Sed sed purus in lectus<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "ad1b9dfe-4bbc-4127-9620-04d5dd62d127",
+        "624a6f2c-e1c7-4a6a-9175-15092d604d83",
+        "6d04cbcd-ee86-4d3f-a3d8-565afe1f3275",
+        "69c9a3a3-a9bc-481b-9920-b27fb2ed70cf",
+        "6c84f825-6df7-4645-af54-a8c69ea4c520",
+        "a73e3b16-295e-4d4f-b203-f8bae29c5ca6",
+        "8070dfa1-94c0-4400-b798-a4aebe835e5b",
+        "c324b302-3fda-4641-adf7-7e476909c517",
+        "24535318-91c7-4766-9ad7-61811277f700"
+      ],
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

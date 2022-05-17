@@ -1,0 +1,498 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/wow-banner-1440.png",
+            "mobile_image": "shopify:\/\/shop_images\/wow-banner-1440.png",
+            "apply_overlay": false,
+            "content_position": "middleCenter",
+            "image_content": "shopify:\/\/shop_images\/wow-banner-img.png",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "FIND AN EVENT",
+            "button_1_link": "shopify:\/\/pages\/find-an-event",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide-0"
+      ],
+      "settings": {
+        "show_fullscreen": false,
+        "show_arrow": false,
+        "autoplay": true,
+        "cycle_speed": 5,
+        "text_color": "#ffffff",
+        "button_color": "#363636",
+        "button_background": "#ffffff"
+      }
+    },
+    "featured-collections": {
+      "type": "featured-collections",
+      "blocks": {
+        "featured-collection-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "fan-favorites",
+            "title": "Fan Favorites",
+            "grid_items_count": 8,
+            "button_text": "View more"
+          }
+        }
+      },
+      "block_order": [
+        "featured-collection-0"
+      ],
+      "settings": {
+        "title": "",
+        "layout_mode": "carousel",
+        "show_product_info": true,
+        "show_vendor": false,
+        "show_color_swatch": false,
+        "grid_mobile_items_per_row": "2",
+        "grid_desktop_items_per_row": 4
+      }
+    },
+    "1652295276cbf7b345": {
+      "type": "collection-list",
+      "blocks": {
+        "1652295276ec224fed-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "personalized",
+            "image": "shopify:\/\/shop_images\/personalized-banner.png",
+            "image_alignment": "center center",
+            "content_position": "bottomCenter",
+            "subheading": "",
+            "title": "Personalized",
+            "button_text": "View products",
+            "button_link": "shopify:\/\/collections\/personalized",
+            "apply_overlay": true
+          }
+        },
+        "1652295276ec224fed-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "slide-over-designs",
+            "image": "shopify:\/\/shop_images\/slide-over-designs-banner.png",
+            "image_alignment": "center center",
+            "content_position": "bottomCenter",
+            "subheading": "",
+            "title": "Slide Over Designs",
+            "button_text": "View products",
+            "button_link": "shopify:\/\/collections\/slide-over-designs",
+            "apply_overlay": true
+          }
+        },
+        "1652295276ec224fed-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "you-design",
+            "image": "shopify:\/\/shop_images\/you-design-banner.png",
+            "image_alignment": "center center",
+            "content_position": "bottomCenter",
+            "subheading": "",
+            "title": "You Design",
+            "button_text": "View products",
+            "button_link": "shopify:\/\/collections\/you-design",
+            "apply_overlay": true
+          }
+        }
+      },
+      "block_order": [
+        "1652295276ec224fed-0",
+        "1652295276ec224fed-1",
+        "1652295276ec224fed-2"
+      ],
+      "settings": {
+        "image_size": "normal",
+        "add_spacing": true,
+        "expand_collection": false,
+        "stack_on_mobile": true,
+        "text_color": "#ffffff",
+        "button_color": "#363636",
+        "collection_title": "Custom Order"
+      }
+    },
+    "1650398988753d0d61": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "section_size": "large",
+        "image": "shopify:\/\/shop_images\/Rectangle_26.jpg",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30,
+        "subheading": "",
+        "title": "Find an Event",
+        "content": "<p>Click here to join a DIY workshop or find your party.<\/p><p><a href=\"\/pages\/find-an-event\" title=\"Find An Event\">Find an event<\/a><\/p>"
+      }
+    },
+    "16503919964be0f006": {
+      "type": "testimonials",
+      "blocks": {
+        "1650391996deef2311-0": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "<p>Our work team enjoyed a very fun, creative evening at Words on Wood. We all had ideas on what our next wood sign wood be! We just love the atmosphere and how easy and fun it was!<\/p>",
+            "author": "KAREN POLTRONIERI"
+          }
+        },
+        "1650391996deef2311-1": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "<p>Our work team enjoyed a very fun, creative evening at Words on Wood. We all had ideas on what our next wood sign wood be! We just love the atmosphere and how easy and fun it was!<\/p>",
+            "author": "KAREN POLTRONIERI"
+          }
+        },
+        "1650391996deef2311-2": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "<p>Our work team enjoyed a very fun, creative evening at Words on Wood. We all had ideas on what our next wood sign wood be! We just love the atmosphere and how easy and fun it was!<\/p>",
+            "author": "KAREN POLTRONIERI"
+          }
+        }
+      },
+      "block_order": [
+        "1650391996deef2311-0",
+        "1650391996deef2311-1",
+        "1650391996deef2311-2"
+      ],
+      "settings": {
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "#eaeaea",
+        "text_color": "#1c1b1b"
+      }
+    },
+    "collection-list": {
+      "type": "collection-list",
+      "blocks": {
+        "collection-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/carbon38-ribbed-cami-bra-tops-white-0055_400x_7f4ac351-f675-4cee-84fd-b523d8ad3a9f.jpg",
+            "image_alignment": "center center",
+            "content_position": "bottomCenter",
+            "subheading": "",
+            "title": "Pre-Made Design",
+            "button_text": "View products",
+            "button_link": "shopify:\/\/collections\/pre-made-designs",
+            "apply_overlay": false
+          }
+        },
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/carbon38-ribbed-cami-bra-tops-white-0055_f852baf6-293f-4ddc-8c81-44d80fa9fc0b_400x_1.jpg",
+            "image_alignment": "center center",
+            "content_position": "bottomCenter",
+            "subheading": "",
+            "title": "Barn Doors & Tables",
+            "button_text": "View products",
+            "button_link": "shopify:\/\/collections\/barn-doors-tables",
+            "apply_overlay": false
+          }
+        },
+        "collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/carbon38-ribbed-cami-bra-tops-white-0055_f852baf6-293f-4ddc-8c81-44d80fa9fc0b_400x_2.jpg",
+            "image_alignment": "center center",
+            "content_position": "bottomCenter",
+            "subheading": "",
+            "title": "DIY Kits",
+            "button_text": "View products",
+            "button_link": "shopify:\/\/collections\/diy-kits",
+            "apply_overlay": false
+          }
+        }
+      },
+      "block_order": [
+        "collection-0",
+        "collection-1",
+        "collection-2"
+      ],
+      "settings": {
+        "image_size": "normal",
+        "add_spacing": true,
+        "expand_collection": false,
+        "stack_on_mobile": true,
+        "text_color": "#ffffff",
+        "button_color": "#363636",
+        "collection_title": "Popular collections"
+      }
+    },
+    "16503920024115febe": {
+      "type": "collection-list",
+      "blocks": {
+        "16503920026d4e56be-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/carbon38-ribbed-cami-bra-tops-white-0055_f852baf6-293f-4ddc-8c81-44d80fa9fc0b_400x_3.jpg",
+            "image_alignment": "center center",
+            "content_position": "bottomCenter",
+            "subheading": "",
+            "title": "Kitchen",
+            "button_text": "View products",
+            "button_link": "shopify:\/\/collections\/kitchen",
+            "apply_overlay": true
+          }
+        },
+        "16503920026d4e56be-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/carbon38-ribbed-cami-bra-tops-white-0055_f852baf6-293f-4ddc-8c81-44d80fa9fc0b_400x_4.jpg",
+            "image_alignment": "center center",
+            "content_position": "bottomCenter",
+            "subheading": "",
+            "title": "Bathroom",
+            "button_text": "View products",
+            "button_link": "shopify:\/\/collections\/bathroom",
+            "apply_overlay": true
+          }
+        },
+        "16503920026d4e56be-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/carbon38-ribbed-cami-bra-tops-white-0055_f852baf6-293f-4ddc-8c81-44d80fa9fc0b_400x_5.jpg",
+            "image_alignment": "center center",
+            "content_position": "bottomCenter",
+            "subheading": "",
+            "title": "Office",
+            "button_text": "View products",
+            "button_link": "shopify:\/\/collections\/office",
+            "apply_overlay": true
+          }
+        },
+        "59d9ab12-c2a8-443c-9d79-35554b19846f": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/carbon38-ribbed-cami-bra-tops-white-0055_f852baf6-293f-4ddc-8c81-44d80fa9fc0b_400x_6.jpg",
+            "image_alignment": "center center",
+            "content_position": "bottomCenter",
+            "subheading": "",
+            "title": "Patio & Porch",
+            "button_text": "View products",
+            "button_link": "shopify:\/\/collections\/patio-porch",
+            "apply_overlay": true
+          }
+        }
+      },
+      "block_order": [
+        "16503920026d4e56be-0",
+        "16503920026d4e56be-1",
+        "16503920026d4e56be-2",
+        "59d9ab12-c2a8-443c-9d79-35554b19846f"
+      ],
+      "settings": {
+        "image_size": "normal",
+        "add_spacing": true,
+        "expand_collection": false,
+        "stack_on_mobile": true,
+        "text_color": "#ffffff",
+        "button_color": "#363636",
+        "collection_title": "Shop by room"
+      }
+    },
+    "165039841831b11c5f": {
+      "type": "collection-list",
+      "blocks": {
+        "165039841834fa647b-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/carbon38-ribbed-cami-bra-tops-white-0055_f852baf6-293f-4ddc-8c81-44d80fa9fc0b_400x_7.jpg",
+            "image_alignment": "center center",
+            "content_position": "bottomCenter",
+            "subheading": "",
+            "title": "Spring",
+            "button_text": "View products",
+            "button_link": "shopify:\/\/collections\/spring",
+            "apply_overlay": true
+          }
+        },
+        "165039841834fa647b-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/carbon38-ribbed-cami-bra-tops-white-0055_f852baf6-293f-4ddc-8c81-44d80fa9fc0b_400x_8.jpg",
+            "image_alignment": "center center",
+            "content_position": "bottomCenter",
+            "subheading": "",
+            "title": "Summer",
+            "button_text": "View products",
+            "button_link": "shopify:\/\/collections\/summer",
+            "apply_overlay": true
+          }
+        },
+        "165039841834fa647b-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/carbon38-ribbed-cami-bra-tops-white-0055_f852baf6-293f-4ddc-8c81-44d80fa9fc0b_400x_9.jpg",
+            "image_alignment": "center center",
+            "content_position": "bottomCenter",
+            "subheading": "",
+            "title": "Fall",
+            "button_text": "View products",
+            "button_link": "shopify:\/\/collections\/fall",
+            "apply_overlay": true
+          }
+        },
+        "4cf0c07d-0e9d-4483-aaa8-1e5266b59fb5": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/carbon38-ribbed-cami-bra-tops-white-0055_f852baf6-293f-4ddc-8c81-44d80fa9fc0b_400x_10.jpg",
+            "image_alignment": "center center",
+            "content_position": "bottomCenter",
+            "subheading": "",
+            "title": "Winter",
+            "button_text": "View products",
+            "button_link": "shopify:\/\/collections\/winter",
+            "apply_overlay": true
+          }
+        }
+      },
+      "block_order": [
+        "165039841834fa647b-0",
+        "165039841834fa647b-1",
+        "165039841834fa647b-2",
+        "4cf0c07d-0e9d-4483-aaa8-1e5266b59fb5"
+      ],
+      "settings": {
+        "image_size": "normal",
+        "add_spacing": true,
+        "expand_collection": false,
+        "stack_on_mobile": true,
+        "text_color": "#ffffff",
+        "button_color": "#363636",
+        "collection_title": "Shop by season"
+      }
+    },
+    "featured-product": {
+      "type": "featured-product",
+      "blocks": {
+        "product-meta": {
+          "type": "product_meta",
+          "settings": {
+            "show_vendor": false,
+            "show_sku": false,
+            "show_product_rating": true,
+            "show_taxes_included": false
+          }
+        },
+        "eceabf48-7cde-4daf-bd72-f047257fde17": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "variant-selector": {
+          "type": "variant_selector",
+          "settings": {
+            "selector_mode": "dropdown",
+            "show_color_swatch": false,
+            "show_color_carousel": false,
+            "size_chart": ""
+          }
+        },
+        "buy-buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_price_in_button": false,
+            "show_payment_button": false
+          }
+        }
+      },
+      "block_order": [
+        "product-meta",
+        "eceabf48-7cde-4daf-bd72-f047257fde17",
+        "variant-selector",
+        "buy-buttons"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "Featured product",
+        "show_headings_on_mobile": true,
+        "product": "this-kitchen-is-for-dancing-sign"
+      }
+    },
+    "16503989812d01a817": {
+      "type": "featured-video",
+      "settings": {
+        "section_size": "large",
+        "text_color": "#ffffff",
+        "subheading": "Try our new \"YOU DESIGN\" tools!",
+        "title": "Click here for a tutorial",
+        "image": "shopify:\/\/shop_images\/Rectangle_26.png",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=f5oMXYwGOyU"
+      }
+    },
+    "165039882111851414": {
+      "type": "text-with-image",
+      "settings": {
+        "subheading": "",
+        "title": "About us",
+        "image": "shopify:\/\/shop_images\/Rectangle_46.jpg",
+        "image_position": "right",
+        "content": "<p>At Words on Wood, YOU can design your own masterpiece! We help you design and create custom signs that can be purchased or ordered online in our shop or in our studio on Center Street in Wallingford, Connecticut. We also host amazing wood sign parties in your location or in our BYOB studio. YOU are the designer but we will help you every step of the way! ...<\/p>",
+        "link_text": "Learn more",
+        "link_url": ""
+      }
+    },
+    "165040030852eda044": {
+      "type": "map",
+      "settings": {
+        "title": "Come Visit Our Studio",
+        "address": "<p>144 Center St. in Wallingford, CT.<\/p>",
+        "hours": "<p>Tuesday, Thursday and Friday 12-6<br>Saturday 10-6<\/p>",
+        "map_address": "144 Center St. in Wallingford, CT",
+        "map_link_label": "Get directions",
+        "api_key": "",
+        "zoom": 14,
+        "map_style": "silver",
+        "image": "shopify:\/\/shop_images\/Rectangle_43.jpg"
+      }
+    },
+    "165040113215c693d4": {
+      "type": "newsletter",
+      "settings": {
+        "section_size": "small",
+        "image": "shopify:\/\/shop_images\/newsletter-bg.jpg",
+        "text_color": "#1c1b1b",
+        "button_color": "#ffffff",
+        "subheading": "",
+        "title": "Newsletter",
+        "content": "<p>Promotions, new products and sales. Directly to your inbox.<\/p>"
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "featured-collections",
+    "1652295276cbf7b345",
+    "1650398988753d0d61",
+    "16503919964be0f006",
+    "collection-list",
+    "16503920024115febe",
+    "165039841831b11c5f",
+    "featured-product",
+    "16503989812d01a817",
+    "165039882111851414",
+    "165040030852eda044",
+    "165040113215c693d4"
+  ]
+}
